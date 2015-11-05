@@ -15,7 +15,6 @@ int bg1x,bg2x;
 float t;
 float ey2;
 
-
 boolean upPressed=false;
 boolean downPressed=false;
 boolean leftPressed=false;
