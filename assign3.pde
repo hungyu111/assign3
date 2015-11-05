@@ -228,7 +228,7 @@ case GAME_RUN2:
   
   
   if(ex%880==0){
-    ey=floor(random(200,400));
+    ey=floor(random(200,380));
     gameState=GAME_RUN3;
   }
 break;
